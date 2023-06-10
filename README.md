@@ -1,1 +1,2 @@
 # CapKap
+ここはCapKapのリポジトリです
